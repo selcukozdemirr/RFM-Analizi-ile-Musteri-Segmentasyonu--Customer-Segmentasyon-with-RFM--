@@ -1,4 +1,4 @@
-# Proje Adı: RFM-Analizi-ile-Müşteri-Segmentasyonu
+# Proje Adı: RFM-Analizi-ile-Musteri-Segmentasyonu
 
 Açıklama: Bu proje, bir e-ticaret şirketi olan FLO'nun müşteri segmentasyonunu gerçekleştirerek, farklı müşteri gruplarına özgü pazarlama stratejileri belirlemeyi amaçlamaktadır. Müşteri davranışlarını inceleyerek, müşterileri belirli kriterlere göre gruplandırmak ve bu gruplara özel kampanyalar geliştirmek hedeflenmektedir.
 
